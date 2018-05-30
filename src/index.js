@@ -19,3 +19,5 @@ class App extends React.Component {
     }
 }
 ReactDOM.render(<App />,document.body);
+
+//需打包js文件
